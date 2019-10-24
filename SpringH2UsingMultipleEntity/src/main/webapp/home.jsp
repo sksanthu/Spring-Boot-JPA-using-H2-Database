@@ -62,13 +62,6 @@ div {
     <label for="salary">Salary</label>
     <input type="text" id="salary" name="salary" placeholder="Enter Your Salary..">
     
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="india">India</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select>
-  
     <input type="submit" value="Submit">
   </form>
 </div>
